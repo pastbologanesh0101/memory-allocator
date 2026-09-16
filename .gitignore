@@ -1,0 +1,7 @@
+*.o
+*.obj
+*.exe
+demo
+test_allocator
+*.dSYM/
+.DS_Store
